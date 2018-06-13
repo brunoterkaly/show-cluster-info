@@ -7,6 +7,7 @@ Before compiling and running the code:
 
 ### Output
 
+```
   Node: k8s-agent-dce67bdc-0
   Node: k8s-agent-dce67bdc-1
   Node: k8s-agent-dce67bdc-2
@@ -557,3 +558,4 @@ Before compiling and running the code:
   ----------
   Namespace = kube-public
   done!
+```
