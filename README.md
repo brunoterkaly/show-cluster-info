@@ -2,9 +2,9 @@
 
 This is a GoLang application that completely reads cluster information and outputs in two ways:
 
-(1) Loop through *nodes* and show all pods in node (including containers, images, and labels per pod)
+(1) Loop through **nodes** and show all pods in node (including containers, images, and labels per pod)
 
-(2) Loop through *namespaces* and show all pods in node (including containers, images, and labels per pod)
+(2) Loop through **namespaces** and show all pods in node (including containers, images, and labels per pod)
 
 ### Assumptions
 
