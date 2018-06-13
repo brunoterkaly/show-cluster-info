@@ -235,3 +235,4 @@ func getKubeConfig() *rest.Config {
     return config
 
 }
+    
